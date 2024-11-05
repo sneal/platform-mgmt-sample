@@ -1,5 +1,5 @@
 # Scripts
-All custome scripts go here
+All custom scripts go here
 
 ## Promotion Process
 Run the `stage-promotion.sh` script from the `scripts/` directory using the
