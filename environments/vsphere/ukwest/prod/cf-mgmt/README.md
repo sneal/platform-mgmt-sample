@@ -1,3 +1,3 @@
 # cf-mgmt
 
-Org/space managemnt for this foundation
+Org/space management for this foundation
